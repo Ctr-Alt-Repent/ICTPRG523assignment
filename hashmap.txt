@@ -1,0 +1,11 @@
+43783278=CDRecord{, title='Busn History 2015', author='Management', section='B', x=1, y=57, barcode=43783278, description='Business History - tax records, events and achievements in 2015', onLoan=false}
+43785102=CDRecord{, title='HRM Records 2017', author='HR Team', section='B', x=1, y=60, barcode=43785102, description='Our business' 2017 human resource management records', onLoan=false}
+43783279=CDRecord{, title='Busn History 2016', author='Management', section='B', x=1, y=58, barcode=43783279, description='Business History - tax records, events and achievements in 2016', onLoan=false}
+43784280=CDRecord{, title='Busn History 2017', author='Management', section='B', x=1, y=59, barcode=43784280, description='Business History - tax records, events and achievements in 2017', onLoan=false}
+43784761=CDRecord{, title='Client A's Project', author='Dev Team', section='D', x=4, y=7, barcode=43784761, description='Client A's project files and copyright material.', onLoan=false}
+43785498=CDRecord{, title='Busn History 2018', author='Management', section='B', x=1, y=64, barcode=43785498, description='Business History - tax records, events and achievements in 2018', onLoan=false}
+43785444=CDRecord{, title='Client B's Project', author='Dev Team', section='D', x=4, y=15, barcode=43785444, description='Client B's project files and copyright material', onLoan=false}
+43784901=CDRecord{, title='Web Site 2017', author='Web Team', section='W', x=1, y=27, barcode=43784901, description='Our business' 2017 web site development and graphics files', onLoan=false}
+43785445=CDRecord{, title='Client A's Testing Records', author='Testing Team', section='T', x=2, y=32, barcode=43785445, description='Client B's project test plan, test cases and associated emails', onLoan=false}
+43785367=CDRecord{, title='Marketing Records 2017', author='Marketing', section='B', x=1, y=61, barcode=43785367, description='Our business' 2017 marketing and sales records', onLoan=false}
+43784880=CDRecord{, title='Client A's Testing Records', author='Testing Team', section='T', x=2, y=18, barcode=43784880, description='Client A's project test plan, test cases and associated emails', onLoan=false}
